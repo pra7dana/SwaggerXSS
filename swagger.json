@@ -3,7 +3,7 @@
     "info": {
         "version": "hate speech",
         "title": "brand damage",
-        "description": "[asd](javascript:alert(document.domain))xxxx<img src='https://www.checkmarx.com/wp-content/uploads/2017/09/twitter-3-Ways-to-Prevent-XSS.png' onload=alert(domain) />xxxx",
+        "description": "[asd](javascript:alert(document.domain))xxxx<img src='y' onerror=alert(1) />xxxx",
         "default": "brand damage",
         "termsOfService": "javascript:alert(document.domain)",
         "contact": {
